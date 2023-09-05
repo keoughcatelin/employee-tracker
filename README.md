@@ -30,7 +30,7 @@ to test project run npm test in your terminal
 
 ## Credit
 
-Shout out to shout out to andrew for help debugging & working on it with tony
+andrew for help debugging & working on it with tony
 
 ## Questions
 
